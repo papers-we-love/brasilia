@@ -1,6 +1,6 @@
 # Brasilia
 
-This is the repository for the Brasília chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/brasilia/blob/master/code-of-conduct.md).
+This is the repository for the Brasilia chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/brasilia/blob/master/code-of-conduct.md).
 
 ### Welcome
 
@@ -8,7 +8,7 @@ Papers We Love (PWL) is a community built around reading, discussing, and learni
 
 What was the last paper you read and loved within the realm of computing? What did it inspire you to build or tinker with? Come share the ideas in an awesome academic/research paper with fellow engineers, programmers, and paper-readers. Lead a session and show off code that you wrote that implements these ideas or just give us the lowdown about the paper. Or, just come, listen, and discuss!
 
-We are curating this repository for papers presented at PWL Brasília. You can contribute by adding pull request for papers, code, and/or links to other repositories, like the _main_ [Papers We Love repository](https://github.com/papers-we-love/papers-we-love).
+We are curating this repository for papers presented at PWL Brasilia. You can contribute by adding pull request for papers, code, and/or links to other repositories, like the _main_ [Papers We Love repository](https://github.com/papers-we-love/papers-we-love).
 
 You can find previous PwL presentations on [YouTube][youtube].
 
@@ -44,10 +44,10 @@ Questions, comments, or concerns? Get in touch!
 - twitter: [@paperswelove_br][twitter]
 - slack: [#paperswelove][slack-channel] (get an invite [here][slack-invite])
 
-Alternatively, send a message to the organizers below:
+Alternatively, send a message to the organizers.
 
 - Alessandro Leite (Twitter: [@alessandroleite][twitter-al] | GitHub: [@alessandroleite][gh-al])
-- Fabricio Buzeto (Twitter: [@nukdf][twitter-fb]
+- Fabricio Buzeto (Twitter: [@nukdf][twitter-fb])
 
 [meetup]: https://www.meetup.com/Papers-We-Love-BsB
 [twitter]: https://twitter.com/paperswelove_br
