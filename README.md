@@ -46,13 +46,13 @@ Questions, comments, or concerns? Get in touch!
 
 Alternatively, send a message to the organizers below:
 
-- Alessandro Leite (twitter: [@alessandroleite][twitter-al], github: [@alessandroleite][gh-al])
-- Fabricio Buzeto (twitter: [@nukdf][twitter-fb]
+- Alessandro Leite (Twitter: [@alessandroleite][twitter-al] | GitHub: [@alessandroleite][gh-al])
+- Fabricio Buzeto (Twitter: [@nukdf][twitter-fb]
 
 [meetup]: https://www.meetup.com/Papers-We-Love-BsB
 [twitter]: https://twitter.com/paperswelove_br
-[slack-channel]: https://paperswelovebsb.slack.com/messages
-[slack-invite]: http://paperswelovebsb.slack.com
+[slack-channel]: https://pwl-brasilia.slack.com/messages
+[slack-invite]: https://pwl-brasilia.herokuapp.com/
 [youtube]: https://www.youtube.com/user/PapersWeLove
 
 [how-to-read-a-paper]: https://github.com/papers-we-love/papers-we-love#how-to-read-a-paper
