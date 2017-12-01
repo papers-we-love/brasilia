@@ -1,12 +1,12 @@
 # Brasilia
 
-This is the repository for the Brasilia chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/brasilia/blob/master/code-of-conduct.md).
+This is the repository for the Brasilia chapter of Papers We Love. As a local chapter, we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/brasilia/blob/master/code-of-conduct.md).
 
 ### Welcome
 
 Papers We Love (PWL) is a community built around reading, discussing, and learning more about academic computer science papers.
 
-What was the last paper you read and loved within the realm of computing? What did it inspire you to build or tinker with? Come share the ideas in an awesome academic/research paper with fellow engineers, programmers, and paper-readers. Lead a session and show off code that you wrote that implements these ideas or just give us the lowdown about the paper. Or, just come, listen, and discuss!
+What was the last paper you read and loved within the realm of computing? What did it inspire you to build or tinker with? Come and share the ideas of an awesome academic/research paper with fellow engineers, programmers, scientists, and paper-readers. Lead a session and show off code that you wrote that implements these ideas or just give us the lowdown on the paper. It is also okay to just come, listen, and discuss!
 
 We are curating this repository for papers presented at PWL Brasilia. You can contribute by adding pull request for papers, code, and/or links to other repositories, like the _main_ [Papers We Love repository](https://github.com/papers-we-love/papers-we-love).
 
@@ -25,7 +25,7 @@ PwL meetings occur monthly. Stay tuned for more information about future [meetup
 
 ### Who are we?
 
-We are developers, engineers, academics, and other professionals interested in discuss computing papers. Whether you're a computer science student, a software engineer, a DevOps engineer, or any other professional, we welcome you to join us. The only requirements are to be curious and eagerness to learn!
+We are developers, engineers, academics, and other professionals interested in discussing computer science papers. Whether you're a computer science student, a software engineer, or any other professional, we welcome you to join us. The only requirements are to be curious and eagerness to learn!
 
 ### Why?
 
