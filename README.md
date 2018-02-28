@@ -17,6 +17,7 @@ You can find previous PwL presentations on [YouTube][youtube].
 - Join us on [Meetup][meetup] to be notified of new meetings
 - Follow [@paperswelove_br][twitter] on Twitter
 - Join the [#paperswelove][slack-channel] channel in Slack (get an invite [here][slack-invite])
+- Join us in [Telegram][telegram]
 - Attend a meeting and introduce yourself
 
 ### When and Where?
@@ -43,6 +44,7 @@ Questions, comments, or concerns? Get in touch!
 
 - twitter: [@paperswelove_br][twitter]
 - slack: [#paperswelove][slack-channel] (get an invite [here][slack-invite])
+- telegram [telegram]
 
 Alternatively, send a message to the organizers.
 
@@ -53,6 +55,7 @@ Alternatively, send a message to the organizers.
 [twitter]: https://twitter.com/paperswelove_br
 [slack-channel]: https://pwl-brasilia.slack.com/messages
 [slack-invite]: https://pwl-brasilia.herokuapp.com/
+[telegram]: https://t.me/joinchat/GmaLP0n7Hye3xK_oW8BIrA
 [youtube]: https://www.youtube.com/user/PapersWeLove
 
 [how-to-read-a-paper]: https://github.com/papers-we-love/papers-we-love#how-to-read-a-paper
