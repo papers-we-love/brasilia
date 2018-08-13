@@ -1,4 +1,6 @@
-# Brasilia
+# Papers We ❤️ Brasilia
+
+[🇧🇷](LEIAME.md) | [🇺🇸](README.md)
 
 This is the repository for the Brasilia chapter of Papers We Love. As a local chapter, we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/brasilia/blob/master/code-of-conduct.md).
 
@@ -31,6 +33,16 @@ We are developers, engineers, academics, and other professionals interested in d
 ### Why?
 
 Because learning and pushing your intellectual boundaries is an effective way to stay relevant in a world that moves fast. Likewise, learning is a funny activity!
+
+### How?
+
+Reading a paper is not the same as reading a novel or a blogpost. These are few resources to help you get started.
+
+* [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+* [Advice on reading academic papers](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+* [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
+* [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
+* [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
 
 ### Want to present?
 
